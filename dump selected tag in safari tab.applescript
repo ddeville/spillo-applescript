@@ -17,6 +17,6 @@ tell application "Spillo"
 			end tell
 		end tell
 	else
-		display dialog "There is no tag currently selected in Spillo."
+		display dialog "There is no tag currently selected in Spillo." buttons {"OK"} default button 1
 	end if
 end tell
