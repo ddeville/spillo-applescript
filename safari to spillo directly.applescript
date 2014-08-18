@@ -1,3 +1,6 @@
+(*
+	
+*)
 tell application "Safari"
 	if current tab of front window exists then
 		set current_tab to current tab of front window

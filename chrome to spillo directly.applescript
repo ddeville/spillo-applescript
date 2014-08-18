@@ -1,3 +1,6 @@
+(*
+	
+*)
 tell application "Google Chrome"
 	if active tab of front window exists then
 		set active_tab to active tab of front window

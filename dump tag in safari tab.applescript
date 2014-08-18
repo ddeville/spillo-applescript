@@ -1,3 +1,6 @@
+(*
+	
+*)
 display dialog "Which tag do you want to dump bookmarks in Safari for?" default answer ""
 set searched_tag to text returned of result
 
